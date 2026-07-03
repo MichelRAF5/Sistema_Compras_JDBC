@@ -15,3 +15,5 @@ Este sistema foi desenvolvido como uma atividade acadêmica para a unidade curri
 ## 3- Execução
 
 * Compile e execute a classe `src/main/java/applications/SistemaCompras.java`.
+
+> Os dados de teste e registros iniciais contidos nos scripts deste repositório foram gerados por Inteligência Artificial para fins acadêmicos.
